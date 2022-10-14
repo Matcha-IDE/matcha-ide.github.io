@@ -15,7 +15,9 @@ layout: home
 
 <br>
 
-[[Jetbrains Marketplace (coming soon)]](https://plugins.jetbrains.com/plugin/20141-matcha)
+[[Available on Jetbrains Marketplace!]](https://plugins.jetbrains.com/plugin/20141-matcha)
+
 [[Source code on GitHub]](https://github.com/Matcha-IDE/Matcha-IDE)
 
+<iframe src="https://ghbtns.com/github-btn.html?user=Matcha-IDE&repo=Matcha-IDE&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="30" title="GitHub"></iframe>
 
