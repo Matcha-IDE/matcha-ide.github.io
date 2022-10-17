@@ -16,8 +16,9 @@ layout: home
 <br>
 
 [[Available on Jetbrains Marketplace!]](https://plugins.jetbrains.com/plugin/20141-matcha)
-
 [[Source code on GitHub]](https://github.com/Matcha-IDE/Matcha-IDE)
+
+Matcha is completely free and open-sourced. If you find it useful, the best way to support us is to leave a review on the plugin marketplace or star our project on GitHub. We'd greatly appreciate it!
 
 <iframe src="https://ghbtns.com/github-btn.html?user=Matcha-IDE&repo=Matcha-IDE&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="30" title="GitHub"></iframe>
 
