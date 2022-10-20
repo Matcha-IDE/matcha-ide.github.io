@@ -25,7 +25,7 @@ Matcha helps you fill out the Google Play data safety section form (privacy labe
 ### How to install:
 
 - **From the JetBrains plugin Marketplace (recommended)**:
-Search "Matcha", "data safety label", or "privacy label" in your IDE, and you can find and install our plugin as shown in the following screenshot. You can also download the plugin from the [JetBrains plugin page](https://plugins.jetbrains.com/plugin/20141-matcha).
+Go to the Plugins settings in your Android Studio (Preferences -> Plugins), search "Matcha", and you can find and install our plugin as shown in the screenshot below. You can also download the plugin from the [JetBrains plugin page](https://plugins.jetbrains.com/plugin/20141-matcha).
 
 ![plugin installation screenshot](/assets/images/plugin_installation_screenshot.png)
 
