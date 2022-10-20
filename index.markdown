@@ -19,7 +19,7 @@ Matcha helps you fill out the Google Play data safety section form (privacy labe
 
 ### Key Functionality:
 - Automatically detect sensitive API calls and third-party SDKs that may collect and share user data.
-- Guide you to add annotations to answer data collection and sharing questions for each detected API calls; Guide you to review optional data collection and sharing of third-party SDKs and customize the report based on your actual use of the SDKs. (The required data collection and sharing practices of third-party SDKs will be automatically included in the resulting CSV file.)
+- Guide you to add annotations to answer data collection and sharing questions for each detected API call; Guide you to review optional data collection and sharing of third-party SDKs and customize the report based on your actual use of the SDKs. (The required data collection and sharing practices of third-party SDKs will be automatically included in the resulting CSV file.)
 - Generate the Google Play data safety section CSV file that you can [upload to your Google Play console](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en#import_from&zippy=%2Cimport-from-a-csv-file) to fulfill the requirement.
 
 ### How to install:
