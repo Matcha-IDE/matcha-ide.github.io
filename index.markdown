@@ -24,12 +24,12 @@ Matcha helps you fill out the Google Play data safety section form (privacy labe
 
 ### How to install:
 
-- **From the JetBrains plugin Marketplace (recommended)**:
+- **Download from the JetBrains plugin Marketplace (recommended)**:
 Go to the Plugins settings in your Android Studio (Preferences -> Plugins), search "Matcha", and you can find and install our plugin as shown in the screenshot below. You can also download the plugin from the [JetBrains plugin page](https://plugins.jetbrains.com/plugin/20141-matcha).
 
 ![plugin installation screenshot](/assets/images/plugin_installation_screenshot.png)
 
-- Compile the plugin from [source code on GitHub](https://github.com/Matcha-IDE/Matcha-IDE).
+- or, compile the plugin from [source code on GitHub](https://github.com/Matcha-IDE/Matcha-IDE).
 
 Matcha is completely free and open-sourced. If you find it useful, the best way to support us is to leave a review on the plugin marketplace or star our project on GitHub. We'd greatly appreciate it!
 
